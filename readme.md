@@ -628,6 +628,13 @@ maybe create a semi-automatic process
 where people can request och releases  
 which are then downloaded and seeded from my machine
 
+to avoid getting blocked for account sharing  
+there should be a delay of some days between request and download  
+so free users "pay" with long waiting times  
+aka: high-latency mixnet  
+https://security.stackexchange.com/questions/150232/logging-attack-tor-vs-mixnets  
+https://security.stackexchange.com/questions/157506/high-latency-anonymous-communication-minimum-delay
+
 och is a workaround for pussies, who are afraid of copyright trolls,  
 but these copyright trolls have no real power (at least here in germany),  
 and they only make money by pushing stupid people to sign some contract,  
@@ -657,6 +664,10 @@ keywords:
 - fossdebrid
 - foss-debrid
 - p2p-debrid
+- free premium link generator
+- high-latency debrid proxy
+- high-latency debrid mixnet
+- high-latency filesharing mixnet
 
 see also:
 
