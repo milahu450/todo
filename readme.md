@@ -783,6 +783,32 @@ probably this error is caused by my bittorrent client (qbittorrent), saturating 
 
 
 
+## media dirs path in user env
+
+something like
+
+```
+MEDIA_DATA_DIRS="/run/media/user/achttera1/torrent:/run/media/user/fourtera1/torrent:/run/media/user/fourtera3/torrent"
+```
+
+```
+$ readlink -f /run/media/user/*/torrent/ | tr $'\n' : | sed 's/:$//'
+/run/media/user/achttera1/torrent:/run/media/user/fourtera1/torrent:/run/media/user/fourtera3/torrent
+```
+
+so i can find media files on this system, for media libraries of media players:
+mixxx,
+strawberry,
+mpd,
+quodlibet,
+foobar2000,
+...
+
+so i can single-source this value from many apps,
+which need access to media files on this machine
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
