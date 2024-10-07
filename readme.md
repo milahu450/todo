@@ -777,6 +777,12 @@ class IPackage:
 
 
 
+### fix linux network errors: device or resource busy
+
+probably this error is caused by my bittorrent client (qbittorrent), saturating my uplink with 4MByte/sec
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
