@@ -809,6 +809,18 @@ which need access to media files on this machine
 
 
 
+### move files across bind mounts
+
+https://github.com/milahu/move-files-across-bind-mounts
+
+https://serverfault.com/questions/327447/mount-bind-and-moving-2-files-between-mounts
+
+https://unix.stackexchange.com/questions/406351/mount-bind-in-the-same-filesystem-move-files-as-in-the-same-filesystem
+
+https://unix.stackexchange.com/questions/380025/why-cant-i-create-a-hardlink-to-a-file-from-a-mount-bind-directory-on-the/380033#380033
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
