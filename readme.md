@@ -821,6 +821,17 @@ https://unix.stackexchange.com/questions/380025/why-cant-i-create-a-hardlink-to-
 
 
 
+### curl: use fallocate
+
+avoid file fragmentation
+
+missing feature in curl
+
+- https://curl.se/mail/archive-2014-02/0003.html - curl and fallocate
+- https://www.man7.org/linux/man-pages/man2/fallocate.2.html - fallocate(2) — Linux manual page
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
