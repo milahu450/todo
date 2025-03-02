@@ -832,6 +832,16 @@ missing feature in curl
 
 
 
+### showrunner AI
+
+create an open source alternative to showrunner, so anyone can create south park episodes, only limited by hardware access to powerful GPUs. ideally the tool should generate all the animations in svg and javascript to allow full postprocessing and open source access to the result. "fork my south park episode on darktea!"
+
+personally, i need this to tell the story of my life. im a punk. south park is punk. south park is an intelligence test. south park is the perfect setting to say "fuck you!" to your enemies. for me, this includes top-level organized crime actors like big pharma, the military industry, the NSA, the CIA, the vatican, blackrock, the rothschild family, the rockefeller family, chabad lubavitch (rabbi cartman), copyright and patent lawyers, mainstream media, pacifists (die hippie die), team blue, blue pills, the WHO, the UN, bill gates, ...
+
+when i cannot use this tool to insult these powerful groups, then the tool has failed.
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
